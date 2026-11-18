@@ -1,0 +1,101 @@
+﻿id,nombre,nombre_es,categoria,rareza,apilable
+722,Diamond,Diamante,material,raro,64
+755,Diamond Sword,Espada de diamante,arma,raro,1
+757,Diamond Pickaxe,Pico de diamante,herramienta,raro,1
+758,Diamond Axe,Hacha de diamante,herramienta,raro,1
+57,Diamond Ore,Mineral de diamante,bloque,raro,64
+728,Iron Ingot,Lingote de hierro,material,comun,64
+750,Iron Sword,Espada de hierro,arma,comun,1
+752,Iron Pickaxe,Pico de hierro,herramienta,comun,1
+45,Iron Ore,Mineral de hierro,bloque,comun,64
+732,Gold Ingot,Lingote de oro,material,comun,64
+49,Gold Ore,Mineral de oro,bloque,comun,64
+723,Emerald,Esmeralda,material,raro,64
+53,Emerald Ore,Mineral de esmeralda,bloque,raro,64
+733,Netherite Ingot,Lingote de netherita,material,epico,64
+734,Netherite Scrap,Fragmento de netherita,material,epico,64
+61,Ancient Debris,Escombros ancestrales,bloque,epico,64
+1,Stone,Piedra,bloque,comun,64
+15,Dirt,Tierra,bloque,comun,64
+14,Grass Block,Bloque de hierba,bloque,comun,64
+22,Cobblestone,Adoquín,bloque,comun,64
+104,Oak Log,Tronco de roble,bloque,comun,64
+23,Oak Planks,Madera de roble,bloque,comun,64
+257,Crafting Table,Mesa de trabajo,bloque,comun,64
+259,Furnace,Horno,bloque,comun,64
+256,Chest,Cofre,bloque,comun,64
+629,TNT,Dinamita (TNT),bloque,comun,64
+247,Obsidian,Obsidiana,bloque,raro,64
+39,Bedrock,Piedra de base (Bedrock),bloque,epico,64
+814,Water Bucket,Cubo con agua,material,comun,1
+815,Lava Bucket,Cubo con lava,material,comun,1
+813,Bucket,Cubo vacío,material,comun,16
+773,Bread,Pan,comida,comun,64
+717,Apple,Manzana,comida,comun,64
+802,Golden Apple,Manzana dorada,comida,raro,64
+803,Enchanted Golden Apple,Manzana dorada encantada,comida,epico,64
+893,Steak,Chuletón cocinado,comida,comun,64
+892,Raw Beef,Filete crudo,comida,comun,64
+800,Cooked Porkchop,Chuleta de cerdo cocinada,comida,comun,64
+990,Carrot,Zanahoria,comida,comun,64
+991,Potato,Patata,comida,comun,64
+772,Wheat,Trigo,material,comun,64
+832,Egg,Huevo,material,comun,16
+718,Bow,Arco,arma,comun,1
+719,Arrow,Flecha,material,comun,64
+1052,Shield,Escudo,herramienta,comun,1
+866,Bone,Hueso,material,comun,64
+768,String,Hilo,material,comun,64
+904,Spider Eye,Ojo de araña,comida,comun,64
+770,Gunpowder,Pólvora,material,comun,64
+897,Ender Pearl,Perla de Ender,material,raro,16
+910,Eye of Ender,Ojo de Ender,material,raro,64
+898,Blaze Rod,Vara de Blaze,material,raro,64
+906,Blaze Powder,Polvo de Blaze,material,raro,64
+1002,Nether Star,Estrella del Nether,material,epico,64
+280,Netherrack,Infiedra (Netherrack),bloque,comun,64
+901,Nether Wart,Verruga del Nether,material,comun,64
+839,Glowstone Dust,Polvo de piedra luminosa,material,comun,64
+287,Glowstone,Piedra luminosa,bloque,comun,64
+608,Redstone Dust,Polvo de redstone,material,comun,64
+610,Block of Redstone,Bloque de redstone,bloque,comun,64
+724,Lapis Lazuli,Lapis lázuli,material,comun,64
+720,Coal,Carbón,material,comun,64
+765,Stick,Palo,material,comun,64
+248,Torch,Antorcha,bloque,comun,64
+260,Ladder,Escalera de mano,bloque,comun,64
+245,Bookshelf,Librería,bloque,comun,64
+830,Book,Libro,material,comun,64
+1006,Enchanted Book,Libro encantado,material,raro,1
+371,Anvil,Yunque,bloque,raro,64
+698,Oak Boat,Barca de roble,herramienta,comun,1
+690,Minecart,Vagoneta,herramienta,comun,1
+687,Rail,Raíl,bloque,comun,64
+689,Saddle,Montura,herramienta,raro,1
+833,Compass,Brújula,herramienta,raro,64
+837,Clock,Reloj,herramienta,raro,64
+886,Map,Mapa,herramienta,comun,64
+836,Fishing Rod,Caña de pescar,herramienta,comun,1
+716,Flint and Steel,Mechero,herramienta,comun,1
+887,Shears,Tijeras,herramienta,comun,1
+1020,Lead,Rienda,herramienta,comun,64
+1021,Name Tag,Etiqueta,herramienta,raro,64
+1053,Totem of Undying,Tótem de la inmortalidad,material,epico,1
+697,Elytra,Élitros,herramienta,epico,1
+1074,Trident,Tridente,arma,epico,1
+40,Sand,Arena,bloque,comun,64
+42,Gravel,Grava,bloque,comun,64
+263,Ice,Hielo,bloque,comun,64
+264,Snow Block,Bloque de nieve,bloque,comun,64
+277,Pumpkin,Calabaza,bloque,comun,64
+313,Melon,Sandía,bloque,comun,64
+206,Sugar Cane,Caña de azúcar,material,comun,64
+829,Paper,Papel,material,comun,64
+831,Slimeball,Bola de slime,material,comun,64
+907,Magma Cream,Crema de magma,material,comun,64
+539,Turtle Egg,Huevo de tortuga,bloque,raro,64
+1105,Honeycomb,Panal de miel,material,comun,64
+336,Ender Chest,Cofre de Ender,bloque,raro,64
+334,Dragon Egg,Huevo de dragón,bloque,epico,64
+1054,Shulker Shell,Caparazón de Shulker,material,epico,64
+817,Snowball,Bola de nieve,material,comun,16
